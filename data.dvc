@@ -1,0 +1,6 @@
+outs:
+- md5: 27f5dc08916728fa591d3910f5221bac.dir
+  size: 49
+  nfiles: 1
+  hash: md5
+  path: data
